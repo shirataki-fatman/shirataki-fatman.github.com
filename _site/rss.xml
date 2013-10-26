@@ -5,14 +5,16 @@
         <description>gokutubusi - ooshiro teigi</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2013-10-26T14:07:49+09:00</lastBuildDate>
-        <pubDate>2013-10-26T14:07:49+09:00</pubDate>
+        <lastBuildDate>2013-10-26T14:12:30+09:00</lastBuildDate>
+        <pubDate>2013-10-26T14:12:30+09:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>Hello World</title>
-                <description></description>
+                <description>
+&lt;p&gt;$B%F%9%H$G$9$h!&amp;lt;!#(B&lt;/p&gt;
+</description>
                 <link>http://username.github.io/2013/10/26/hello-world</link>
                 <guid>http://username.github.io/2013/10/26/hello-world</guid>
                 <pubDate>2013-10-26T00:00:00+09:00</pubDate>
