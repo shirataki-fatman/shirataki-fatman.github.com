@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>gokutubusi</title>
+        <description>gokutubusi - ooshiro teigi</description>
+        <link>http://username.github.io</link>
+        <link>http://username.github.io</link>
+        <lastBuildDate>2013-10-26T14:07:49+09:00</lastBuildDate>
+        <pubDate>2013-10-26T14:07:49+09:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Hello World</title>
+                <description></description>
+                <link>http://username.github.io/2013/10/26/hello-world</link>
+                <guid>http://username.github.io/2013/10/26/hello-world</guid>
+                <pubDate>2013-10-26T00:00:00+09:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

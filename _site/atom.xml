@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>gokutubusi</title>
+ <link href="http://username.github.io/" rel="self"/>
+ <link href="http://username.github.io"/>
+ <updated>2013-10-26T14:07:49+09:00</updated>
+ <id>http://username.github.io</id>
+ <author>
+   <name>ooshiro teigi</name>
+   <email>tatsunori272@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://username.github.io/2013/10/26/hello-world"/>
+   <updated>2013-10-26T00:00:00+09:00</updated>
+   <id>http://username.github.io/2013/10/26/hello-world</id>
+   <content type="html"></content>
+ </entry>
+ 
+ 
+</feed>
